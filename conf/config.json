@@ -1,0 +1,14 @@
+{
+	"release":"v-2.9.1",
+	"image_name":"glygen/retriever",
+	"container_name":"running_glygen_retriever",
+	"data_dir":"/data/shared/glygen/",
+	"main_id_field":{
+		"protein":"uniprot_canonical_ac",
+		"glycan":"glytoucan_ac"
+    }
+
+}
+
+
+
